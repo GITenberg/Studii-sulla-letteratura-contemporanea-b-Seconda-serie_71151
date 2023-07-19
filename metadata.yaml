@@ -1,0 +1,30 @@
+_repo: Studii-sulla-letteratura-contemporanea-b-Seconda-serie_71151
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Capuana, Luigi
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '2402'
+    url: http://www.gutenberg.org/2009/agents/2402
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Luigi_Capuana
+    - https://en.wikipedia.org/wiki/Luigi_Capuana
+description: ''
+gutenberg_issued: '2023-07-08'
+identifiers:
+  gutenberg: '71151'
+language: it
+pgterms:marc905: 20210715091728capuana
+pgterms:marc906: '1882'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aItaly :$bGiannotta, $c1882.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Studii sulla letteratura contemporanea : $b Seconda serie'
+url: http://www.gutenberg.org/ebooks/71151
