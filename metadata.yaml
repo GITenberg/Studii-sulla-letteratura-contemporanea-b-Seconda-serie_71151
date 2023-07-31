@@ -1,5 +1,8 @@
 _repo: Studii-sulla-letteratura-contemporanea-b-Seconda-serie_71151
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71151-h/images/cover.jpg
 creator:
   author:
     agent_name: Capuana, Luigi
@@ -11,6 +14,8 @@ creator:
     - https://it.wikipedia.org/wiki/Luigi_Capuana
     - https://en.wikipedia.org/wiki/Luigi_Capuana
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71151#Studii-sulla-letteratura-contemporanea-b-Seconda-serie
 gutenberg_issued: '2023-07-08'
 identifiers:
   gutenberg: '71151'
